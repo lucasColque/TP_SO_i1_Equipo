@@ -1,0 +1,3 @@
+Nombre: Ramiro Cuello
+IP: 192.168.0.112
+Hora: 11.07
