@@ -1,7 +1,8 @@
-Nombre: Ramiro Cuello
-IP: 192.168.0.112
-Hora: 11.07
+Ramiro Cuello
+Paloma Estevez
+Lucas Contreras
 
-Nombre: Paloma Estevez
-IP: 192.168.0.238
-Hora: 11:29
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+Si
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, todos lo pueden ver
